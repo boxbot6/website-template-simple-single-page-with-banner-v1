@@ -57,10 +57,13 @@ Click below to open and try out the actual template.
 
 <br>
 
-* [Click this link to view the website being created from this repository and hosted on github-pages.](https://boxbot6.github.io/website-template-simple-single-page-with-banner-v1/)
+* [Click this link to visit the website being created from this repository and hosted on github-pages.](https://boxbot6.github.io/website-template-simple-single-page-with-banner-v1/)
 
 <br>
 
 ---
 
 * [Click this link to see more templates.](https://boxbot6.github.io/simple-website-templates/)
+
+<br>
+
